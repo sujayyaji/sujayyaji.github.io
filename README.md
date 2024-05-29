@@ -1,3 +1,3 @@
 # Portfolio_Sujay_Idagunji
 
-This repository contains the code to my portfolio
+Welcome to my portfolio! I am Sujay Idagunji, an experienced Product Manager with a strong background in Management Information Systems and a passion for developing innovative tech solutions. Here, you’ll find information about my background. My product skills include Product Roadmap and Prioritization, Stakeholder & Program Management, Wireframing, A/B Testing, User Research & Feature Development, API, and Jira. I am very data-driven and I use Python, SQL, Tableau, and AWS to drive product decisions. I excel in Agile development, cross-functional teamwork, and data-driven decision-making. Let's connect and collaborate on creating impactful tech solutions!
